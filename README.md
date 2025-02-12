@@ -1,8 +1,26 @@
-<h1>Hi 👋, I'm Oussama</h1>
-<p>
-  # 💫 About Me:<br>
-  🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-</p>
+# 👋 Hi, I'm Oussama, A Passionate Software Engineer
+
+I specialize in building **scalable**, **efficient**, and **innovative** solutions. I love working with modern technologies and frameworks while also diving deep into **C/C++** for system-level programming.
+
+## 🔍 What I'm Exploring:
+- **Microservices Architecture**
+- **Web Application Development**
+- **Game Development**
+
+I have a strong passion for **clean code**, **efficient algorithms**, and solving **complex problems**.
+
+## 🛠️ Technologies I Work With:
+
+**Backend:**  
+`oezzaou@arch:~❯` Django, Django REST Framework, Django Channels, Celery, Redis  
+
+**Systems Programming:**  
+`oezzaou@arch:~❯` C/C++, Docker  
+
+**Tools & Environments:**  
+`oezzaou@arch:~❯` Arch Linux, Wayland/Hyprland, ITerm2/Kitty, Neovim, Tmux
+
+---
 
 # 🚀 Languages and Tools I Use:
 <p>
@@ -41,8 +59,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/exoks/exoks/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/exoks/exoks/output/github-snake.svg" />
 </picture>
+---
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/oussama-ezzaou-9b7a932a1" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/ous_sama_ezz" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+---
+
+Feel free to connect or check out my projects!
