@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Oussama, A Passionate Software Engineer
 
-I specialize in building **scalable**, **efficient**, and **innovative** solutions. I love working with modern technologies and frameworks while also diving deep into **C/C++** for system-level programming.
+I’m passionate about building **scalable**, **efficient**, and **innovative** solutions. I enjoy working with modern technologies and frameworks, while also diving deep into **C/C++** for system-level programming. I have a strong passion for understanding the underlying, low-level aspects of technology, constantly exploring how things work at the core.
 
 ## 🔍 What I'm Exploring:
 - **Microservices Architecture**
 - **Web Application Development**
-- **Game Development**
+- **JavaScript Engines**
 
 I have a strong passion for **clean code**, **efficient algorithms**, and solving **complex problems**.
 
@@ -59,13 +59,14 @@ I have a strong passion for **clean code**, **efficient algorithms**, and solvin
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/exoks/exoks/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/exoks/exoks/output/github-snake.svg" />
 </picture>
----
+
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/oussama-ezzaou-9b7a932a1" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/ous_sama_ezz" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
----
-
 Feel free to connect or check out my projects!
+
+---
