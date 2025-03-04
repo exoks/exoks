@@ -62,10 +62,9 @@ I have a strong passion for **clean code**, **efficient algorithms**, and solvin
 
 ## ⚡️ Feel free to connect or check out my projects! ##
 <p>
-<a href="https://x.com/sdfdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sdfdf" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sdfsdfdsf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdfsdfdsf" height="30" width="40" /></a>
-<a href="https://instagram.com/sdfdsfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sdfdsfd" height="30" width="40" /></a>
-<a href="https://discord.gg/sdfdsfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sdfdsfd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oussama-ezzaou-9b7a932a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussama-ezzaou-9b7a932a1" height="30" width="40" /></a>
+<a href="https://instagram.com/ous_sama_ezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ous_sama_ezz" height="30" width="40" /></a>
+<a href="https://discord.gg/801201724094283807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="801201724094283807" height="30" width="40" /></a>
 </p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
