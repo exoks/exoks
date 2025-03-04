@@ -22,7 +22,7 @@ I have a strong passion for **clean code**, **efficient algorithms**, and solvin
 
 ---
 
-# 🚀 Languages and Tools I Use:
+## 🚀 Languages and Tools I Use: ##
 <p>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -45,11 +45,11 @@ I have a strong passion for **clean code**, **efficient algorithms**, and solvin
 </p>
 
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)<br>
-# 📊 GitHub Stats:
+## 📊 GitHub Stats: ##
 ![](https://github-readme-stats.vercel.app/api?username=exoks&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=exoks&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies ##
 ![](https://github-profile-trophy.vercel.app/?username=exoks&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -60,7 +60,7 @@ I have a strong passion for **clean code**, **efficient algorithms**, and solvin
   <img alt="github-snake" src="https://raw.githubusercontent.com/exoks/exoks/output/github-snake.svg" />
 </picture>
 
-<h2>⚡️ Where to find me</h2>
+## ⚡️ Where to find me ##
 <p>
 <a target="_blank" href="https://www.linkedin.com/in/oussama-ezzaou-9b7a932a1" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/ous_sama_ezz" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
