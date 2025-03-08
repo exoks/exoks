@@ -20,8 +20,6 @@ I have a strong passion for **clean code**, **efficient algorithms**, and solvin
 **Tools & Environments:**  
 `oezzaou@arch:~❯` Arch Linux, Wayland/Hyprland, ITerm2/Kitty, Neovim, Tmux
 
----
-
 ## 🚀 Languages and Tools I Use: ##
 <p>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -96,5 +94,3 @@ I have a strong passion for **clean code**, **efficient algorithms**, and solvin
 <a href="https://www.linkedin.com/in/oussama-ezzaou-9b7a932a1/">
     <img src="https://img.shields.io/badge/-linkedin-000?style=flat&logo=linkedin&logoColor=fff&labelColor=000" width="120" height="30">
 </a>
-
----
