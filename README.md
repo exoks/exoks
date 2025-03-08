@@ -60,26 +60,26 @@ I have a strong passion for **clean code**, **efficient algorithms**, and solvin
   <img alt="github-snake" src="https://raw.githubusercontent.com/exoks/exoks/output/github-snake.svg" />
 </picture>
 
-<table>
-  <tr>
-    <td width="24"></td> <!-- Adds margin to the left -->
-    <td>
-      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical">
-    </td>
-    <td>
-      <a href="https://github.com/oakoudad/badge42">
-        <img src="https://badge.mediaplus.ma/greenbinary/oezzaou" alt="oezzaou's 42 stats">
-      </a>
-    </td>
-    <td width="24"></td> <!-- Adds margin to the right -->
-  </tr>
-</table>
-
 ## ⚡️ Feel free to connect or check out my projects! ##
 <p>
 <a href="https://linkedin.com/in/oussama-ezzaou-9b7a932a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussama-ezzaou-9b7a932a1" height="30" width="40" /></a>
 <a href="https://instagram.com/ous_sama_ezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ous_sama_ezz" height="30" width="40" /></a>
 <a href="https://discord.gg/801201724094283807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="801201724094283807" height="30" width="40" /></a>
 </p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark">
+      </td>
+      <td align="right">
+        <a href="https://github.com/oakoudad/badge42">
+          <img src="https://badge.mediaplus.ma/greenbinary/oezzaou" alt="oezzaou's 42 stats">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
