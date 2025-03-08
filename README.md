@@ -60,8 +60,6 @@ I have a strong passion for **clean code**, **efficient algorithms**, and solvin
   <img alt="github-snake" src="https://raw.githubusercontent.com/exoks/exoks/output/github-snake.svg" />
 </picture>
 
----
-
 <div align="center">
   <table>
     <tr>
@@ -76,8 +74,6 @@ I have a strong passion for **clean code**, **efficient algorithms**, and solvin
     </tr>
   </table>
 </div>
-
----
 
 ## ⚡️ Feel free to connect or check out my projects! ##
 
