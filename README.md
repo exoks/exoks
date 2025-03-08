@@ -60,6 +60,8 @@ I have a strong passion for **clean code**, **efficient algorithms**, and solvin
   <img alt="github-snake" src="https://raw.githubusercontent.com/exoks/exoks/output/github-snake.svg" />
 </picture>
 
+[![oezzaou's 42 stats](https://badge.mediaplus.ma/greenbinary/oezzaou)](https://github.com/oakoudad/badge42)
+
 ## ⚡️ Feel free to connect or check out my projects! ##
 <p>
 <a href="https://linkedin.com/in/oussama-ezzaou-9b7a932a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussama-ezzaou-9b7a932a1" height="30" width="40" /></a>
