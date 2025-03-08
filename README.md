@@ -60,7 +60,6 @@ I have a strong passion for **clean code**, **efficient algorithms**, and solvin
   <img alt="github-snake" src="https://raw.githubusercontent.com/exoks/exoks/output/github-snake.svg" />
 </picture>
 
-[![oezzaou's 42 stats](https://badge.mediaplus.ma/greenbinary/oezzaou)](https://github.com/oakoudad/badge42)
 
 ## ⚡️ Feel free to connect or check out my projects! ##
 <p>
@@ -69,6 +68,17 @@ I have a strong passion for **clean code**, **efficient algorithms**, and solvin
 <a href="https://discord.gg/801201724094283807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="801201724094283807" height="30" width="40" /></a>
 </p>
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark">
+    </td>
+    <td align="right">
+      <a href="https://github.com/oakoudad/badge42">
+        <img src="https://badge.mediaplus.ma/greenbinary/oezzaou" alt="oezzaou's 42 stat">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
