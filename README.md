@@ -61,11 +61,26 @@ I have a strong passion for **clean code**, **efficient algorithms**, and solvin
 </picture>
 
 ## ⚡️ Feel free to connect or check out my projects! ##
-<p>
-<a href="https://linkedin.com/in/oussama-ezzaou-9b7a932a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussama-ezzaou-9b7a932a1" height="30" width="40" /></a>
-<a href="https://instagram.com/ous_sama_ezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ous_sama_ezz" height="30" width="40" /></a>
-<a href="https://discord.gg/801201724094283807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="801201724094283807" height="30" width="40" /></a>
-</p>
+
+<a href="oussama.ezzaou@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-000?style=flat&logo=Gmail&logoColor=ea4335&labelColor=000" width="110" height="30">
+</a>
+
+<a href="https://discord.com/users/801201724094283807">
+    <img src="https://img.shields.io/badge/-discord-000?style=flat&logo=discord&logoColor=fff&labelColor=000" width="120" height="30">
+</a>
+
+<a href="https://twitter.com/oussamaezzaou">
+    <img src="https://img.shields.io/badge/-X-000?style=flat&logo=X&logoColor=fff&labelColor=000" width="60" height="30">
+</a>
+
+<a href="https://www.instagram.com/ous_sama_ezz/">
+    <img src="https://img.shields.io/badge/-instagram-000?style=flat&logo=instagram&logoColor=fff&labelColor=000" width="120" height="30">
+</a>
+
+<a href="https://www.linkedin.com/in/oussama-ezzaou-9b7a932a1/">
+    <img src="https://img.shields.io/badge/-linkedin-000?style=flat&logo=linkedin&logoColor=fff&labelColor=000" width="120" height="30">
+</a>
 
 <div align="center">
   <table>
