@@ -60,6 +60,25 @@ I have a strong passion for **clean code**, **efficient algorithms**, and solvin
   <img alt="github-snake" src="https://raw.githubusercontent.com/exoks/exoks/output/github-snake.svg" />
 </picture>
 
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark">
+      </td>
+      <td align="right">
+        <a href="https://github.com/oakoudad/badge42">
+          <img src="https://badge.mediaplus.ma/greenbinary/oezzaou" alt="oezzaou's 42 stats">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## ⚡️ Feel free to connect or check out my projects! ##
 
 <a href="oussama.ezzaou@gmail.com">
@@ -81,20 +100,5 @@ I have a strong passion for **clean code**, **efficient algorithms**, and solvin
 <a href="https://www.linkedin.com/in/oussama-ezzaou-9b7a932a1/">
     <img src="https://img.shields.io/badge/-linkedin-000?style=flat&logo=linkedin&logoColor=fff&labelColor=000" width="120" height="30">
 </a>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark">
-      </td>
-      <td align="right">
-        <a href="https://github.com/oakoudad/badge42">
-          <img src="https://badge.mediaplus.ma/greenbinary/oezzaou" alt="oezzaou's 42 stats">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
