@@ -94,3 +94,5 @@ I have a strong passion for **clean code**, **efficient algorithms**, and solvin
 <a href="https://www.linkedin.com/in/oussama-ezzaou-9b7a932a1/">
     <img src="https://img.shields.io/badge/-linkedin-000?style=flat&logo=linkedin&logoColor=fff&labelColor=000" width="120" height="30">
 </a>
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=exoks&repo=github-visitors-badge&countColor=%237B1E7A)
