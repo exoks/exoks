@@ -3,16 +3,16 @@
 I’m passionate about building **scalable**, **efficient**, and **innovative** solutions. I enjoy working with modern technologies and frameworks, while also diving deep into **C/C++** for system-level programming. I have a strong passion for understanding the underlying, low-level aspects of technology, constantly exploring how things work at the core.
 
 ## 🔍 What I'm Exploring:
-- **Microservices Architecture**
-- **Web Application Development**
-- **JavaScript Engines**
+- **Data Science**
+- **Machine Learning**
+- **Deep Learning**
 
 I have a strong passion for **clean code**, **efficient algorithms**, and solving **complex problems**.
 
 ## 🛠️ Technologies I Work With:
 
 **Backend:**  
-`oezzaou@arch:~❯` Django, Django REST Framework, Django Channels, Celery, Redis  
+`oezzaou@arch:~❯` Django, Django Channels, Celery, Redis, NumPy/Pandas, Matplotlib/Seaborn, scikit-learn
 
 **Systems Programming:**  
 `oezzaou@arch:~❯` C/C++, Docker  
