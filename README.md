@@ -15,7 +15,7 @@ I have a strong passion for **clean code**, **efficient algorithms**, and solvin
 `oezzaou@arch:~❯` Django, Django Channels, Celery, Redis
 
 **Data Science & Machine Learning:
-`oezzaou@arch:~>` NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+`oezzaou@arch:~>` Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
 **Systems Programming:**  
 `oezzaou@arch:~❯` C/C++, Docker  
